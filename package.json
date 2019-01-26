@@ -1,4 +1,4 @@
-{
+  {
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
@@ -24,6 +24,8 @@
     "simple-youtube-api": "^5.0.2",
     "youtube-info": "^1.2.0",
     "ytdl-core": "^0.21.1",
-    "dateformat": "^3.0.3"
+    "dateformat": "^3.0.3",
+    "moment": "^2.24.0"
+    "
   }
 }
